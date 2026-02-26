@@ -1,7 +1,7 @@
 # Blender v2.90.0 OBJ File: ''
 # www.blender.org
 mtllib Elf_Cup.mtl
-o ElfCup
+o Elf_Cup
 v -0.000000 0.008046 -0.018204
 v 0.000070 0.003218 -0.000041
 v -0.006196 0.008046 -0.017124
