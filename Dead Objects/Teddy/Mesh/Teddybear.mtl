@@ -1,0 +1,42 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Material.000001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Users/Stefan Klinger/Desktop/Dead Objects/Teddy/Diffuse/Teddy.jpg
+
+newmtl Material.00046b
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Stefan Klinger/Desktop/Dead Objects/Teddy/Diffuse/Teddy.jpg
+
+newmtl Material.0012fe
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Stefan Klinger/Desktop/Dead Objects/Teddy/Diffuse/Teddy.jpg
+
+newmtl Material.001418
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Stefan Klinger/Desktop/Dead Objects/Teddy/Diffuse/Teddy.jpg
