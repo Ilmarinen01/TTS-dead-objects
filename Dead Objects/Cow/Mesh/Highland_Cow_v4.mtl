@@ -1,0 +1,52 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Material.000001
+Ns 19.999990
+Ka 1.000000 1.000000 1.000000
+Ks 0.966013 0.966013 0.966013
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Stefan Klinger/Desktop/Dead Objects/Cow/Diffuse/highlandcow.png
+
+newmtl Material.000612
+Ns 19.999990
+Ka 1.000000 1.000000 1.000000
+Ks 0.966013 0.966013 0.966013
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Stefan Klinger/Desktop/Dead Objects/Cow/Diffuse/highlandcow.png
+
+newmtl Material.000c23
+Ns 19.999990
+Ka 1.000000 1.000000 1.000000
+Ks 0.966013 0.966013 0.966013
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Stefan Klinger/Desktop/Dead Objects/Cow/Diffuse/highlandcow.png
+
+newmtl Material.001234
+Ns 563.268616
+Ka 1.000000 1.000000 1.000000
+Ks 0.966013 0.966013 0.966013
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Users/Stefan Klinger/Desktop/Dead Objects/Cow/Diffuse/highlandcow.png
+
+newmtl Material.001845
+Ns 19.999990
+Ka 1.000000 1.000000 1.000000
+Ks 0.966013 0.966013 0.966013
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd C:/Users/Stefan Klinger/Desktop/Dead Objects/Cow/Diffuse/highlandcow.png
+map_d C:/Users/Stefan Klinger/Desktop/Dead Objects/Cow/Diffuse/highlandcow.png
