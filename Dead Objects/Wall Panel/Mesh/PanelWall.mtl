@@ -1,0 +1,12 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Material
+Ns 769.607422
+Ka 0.009091 0.009091 0.009091
+Ks 0.254545 0.254545 0.254545
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd TexturePlane_VictorianPanels01_BaseColor.jpg
